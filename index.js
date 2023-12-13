@@ -15,9 +15,7 @@ app.use(cors({
     origin: [
         'http://localhost:5174',
         'http://localhost:5173',
-        "https://assignment-11-5c145.web.app",
-        "https://assignment-11-5c145.firebaseapp.com",
-
+        "https://hirefusion.netlify.app",
     ],
     credentials: true
 }));
